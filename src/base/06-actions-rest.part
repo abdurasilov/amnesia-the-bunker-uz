@@ -59,7 +59,7 @@
     <Entry Name="CheckAmmo">Qurolni olish/qoʻyish</Entry>
     <Entry Name="GasMask">Gaz niqobini kiyish/yechish</Entry>
     <Entry Name="EquipItem">Buyumni qoʻlga olish</Entry>
-    <Entry Name="HolsterEquip">Buyumni beliga tiqish</Entry>
+    <Entry Name="HolsterEquip">Buyumni gʻilofga solish</Entry>
   </CATEGORY>
   <CATEGORY Name="Launcher">
     <Entry Name="Off">Oʻchiq</Entry>

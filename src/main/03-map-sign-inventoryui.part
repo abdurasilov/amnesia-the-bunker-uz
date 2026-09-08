@@ -126,7 +126,7 @@
     <Entry Name="Container">%n</Entry>
     <Entry Name="HintNextTab">$Input{SketchbookNextTab}</Entry>
     <Entry Name="HintPrevTab">$Input{SketchbookPrevTab}</Entry>
-    <Entry Name="HintInventoryRequiresLighter">*Ishlatish uchun chaqmoqtosh kerak.</Entry>
+    <Entry Name="HintInventoryRequiresLighter">*Ishlatish uchun zajigalka kerak.</Entry>
     <Entry Name="HintInventoryRequiresCrafting">*Ishlatish uchun avval yasab olish kerak.</Entry>
     <Entry Name="GamePaused">Oʻyin toʻxtatildi</Entry>
   </CATEGORY>

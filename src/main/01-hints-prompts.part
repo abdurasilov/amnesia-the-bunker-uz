@@ -70,9 +70,9 @@
     <Entry Name="HintInjured_Toggle">Jarohat oldingiz! Qanchalik ogʻirligini koʻrish uchun $Input{OpenInventory} ni qisqa bosib turing.[br]Toʻxtash uchun $Input{OpenInventory} ni bosing.</Entry>
     <Entry Name="HintInjuredAlt">Jarohat oldingiz, qoningiz oqmoqda![br]Oʻzingizni bogʻlamaguningizcha ahvolingiz yomonlashaveradi.[br]Qanchalik ogʻirligini koʻrish uchun $Input{OpenInventory} ni bosib turing.</Entry>
     <Entry Name="HintInjuredAlt_Toggle">Jarohat oldingiz, qoningiz oqmoqda![br]Oʻzingizni bogʻlamaguningizcha ahvolingiz yomonlashaveradi.[br]Qanchalik ogʻirligini koʻrish uchun $Input{OpenInventory} ni qisqa bosib turing. Toʻxtash uchun $Input{OpenInventory} ni bosing.</Entry>
-    <Entry Name="HintInjuredCreatures">Jarohat oldingiz! Ehtiyot boʻling — endi ortingizdan qon izi qolmoqda, u baʼzi jonzotlarni chaqirishi mumkin.</Entry>
-    <Entry Name="HintInjuredCreaturesAltOne">Jarohat oldingiz, qoningiz oqmoqda! Ehtiyot boʻling — ortingizdan qon izi qolmoqda, u baʼzi jonzotlarni chaqirishi mumkin.</Entry>
-    <Entry Name="HintInjuredCreaturesAltTwo">Jarohat oldingiz, qoningiz oqmoqda! Oʻzingizni bogʻlamaguningizcha ahvolingiz yomonlashaveradi.[br]Ehtiyot boʻling — ortingizdan qon izi ham qolmoqda, u baʼzi jonzotlarni chaqirishi mumkin.</Entry>
+    <Entry Name="HintInjuredCreatures">Jarohat oldingiz! Ehtiyot boʻling — endi ortingizdan qon izi qolmoqda, u baʼzi jonzotlarni oʻziga tortishi mumkin.</Entry>
+    <Entry Name="HintInjuredCreaturesAltOne">Jarohat oldingiz, qoningiz oqmoqda! Ehtiyot boʻling — ortingizdan qon izi qolmoqda, u baʼzi jonzotlarni oʻziga tortishi mumkin.</Entry>
+    <Entry Name="HintInjuredCreaturesAltTwo">Jarohat oldingiz, qoningiz oqmoqda! Oʻzingizni bogʻlamaguningizcha ahvolingiz yomonlashaveradi.[br]Ehtiyot boʻling — ortingizdan qon izi ham qolmoqda, u baʼzi jonzotlarni oʻziga tortishi mumkin.</Entry>
     <Entry Name="HintNotInjured">Hozircha jarohatingiz yoʻq.</Entry>
     <Entry Name="HintNotBleeding">Hozircha qoningiz oqmayapti.</Entry>
     <Entry Name="HintNoise">Shovqin — xavf. Qancha shovqin qilayotganingizga ehtiyot boʻling.</Entry>

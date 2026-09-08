@@ -13,10 +13,10 @@
     <Entry Name="FuelStorageCodeLock">Yoqilgʻi omborida kodli qulf</Entry>
     <Entry Name="FuelStorageCodeLock_Info">Yoqilgʻi ombori eshigi kodli qulf bilan berkitilsinmi?</Entry>
     <Entry Name="InitialPlaythroughConditions">Birinchi oʻyin sharoitlari</Entry>
-    <Entry Name="InitialPlaythroughConditions_Info">Oʻyin xuddi birinchi marta oʻynalayotgandek boʻlsinmi? Bu, masalan, chaqmoqtoshni ochadigan askar jetonining joyiga va yirtqichning qamal koʻtarilmasdan chiqa olishiga taʼsir qiladi.</Entry>
+    <Entry Name="InitialPlaythroughConditions_Info">Oʻyin xuddi birinchi marta oʻynalayotgandek boʻlsinmi? Bu, masalan, zajigalkani ochadigan askar jetonining joyiga va yirtqichning qamal koʻtarilmasdan chiqa olishiga taʼsir qiladi.</Entry>
     <Entry Name="NewGamePlusSetting">Yangi oʻyin+</Entry>
     <Entry Name="NewGamePlusSetting_Info">Yangi oʻyin+ imkoniyatlarini yoqadi. Qoʻshimcha rejimlar, yanada kutilmagan yirtqich, 30 dan ortiq erkin sozlama, yangi yutuqlar va yana koʻp narsa.</Entry>
-    <Entry Name="NewGamePlusSetting_InfoAlt">Yangi oʻyin+ imkoniyatlarini yoqadi yoki oʻchiradi. Oʻchirilsa, oʻyin xuddi birinchi marta oʻynalayotgandek boʻladi. Bu, masalan, chaqmoqtoshni ochadigan askar jetonining joyiga va yirtqichning qamal koʻtarilmasdan chiqa olishiga taʼsir qiladi.</Entry>
+    <Entry Name="NewGamePlusSetting_InfoAlt">Yangi oʻyin+ imkoniyatlarini yoqadi yoki oʻchiradi. Oʻchirilsa, oʻyin xuddi birinchi marta oʻynalayotgandek boʻladi. Bu, masalan, zajigalkani ochadigan askar jetonining joyiga va yirtqichning qamal koʻtarilmasdan chiqa olishiga taʼsir qiladi.</Entry>
     <Entry Name="NewGamePlusSettingPopUp">YANGI OʻYIN+ OʻYINNI BIR MARTA TUGATGANDAN KEYIN OCHILADI.</Entry>
     <Entry Name="CustomSettings_False">Yoʻq</Entry>
     <Entry Name="CustomSettings_True">Ha</Entry>
