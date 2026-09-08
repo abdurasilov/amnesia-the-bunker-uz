@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Content
+	Author="FRIZAR"
+	Dependencies=""
+	Description_english="Menyu, qaydlar va subtitrlar to'liq o'zbek tilida. Menus, notes and subtitles fully in Uzbek."
+	Description_russian="Меню, записки и субтитры полностью на узбекском языке."
+	LauncherPic="LauncherPic.jpg"
+	Title="O'zbek tili / Uzbek Translation"
+	Type="AddOn"
+	UID="frizar.uzbekpatch"
+	Version="1.0"
+/>

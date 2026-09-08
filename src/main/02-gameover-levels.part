@@ -1,0 +1,127 @@
+  <CATEGORY Name="GameOver">
+    <Entry Name="DefaultMessage">Siz oʻldingiz</Entry>
+    <Entry Name="DeathHint_General_1">
+			"Askar — aqlli jonivor. Nima bersang, olib, uni yaxshilaydi. Bir-biri bilan gaplashadi ham. Bilgani xat orqali, qogʻoz orqali, gap-soʻz orqali hammaga tarqaydi. Askarlarga ishon."
+			[br][br]- Romain Delpy, brigada generali, Uchinchi respublikaning 4-armiyasi
+		</Entry>
+    <Entry Name="DeathHint_General_2">
+			"Anjom kerak boʻlsa, uni oʻzing yasashni oʻrgan. Yigʻ, qirib ol, tejab ishlat, bor narsaga qanoat qil. Gap shunda. Rasmiy taʼminotni faqat ahmoq kutib oʻtiradi."
+			[br][br]- Starshina Johannes Melius
+		</Entry>
+    <Entry Name="DeathHint_General_3">
+			"Asbob qoʻlingda tayyor turmasa, undan foyda yoʻq. Bu oddiy gap."
+			[br][br]- Askar Charles Lavoie
+		</Entry>
+    <Entry Name="DeathHint_General_4">
+			"Otam dunyo mustahkam narsalardan yaratilgan derdi. Borliq qattiq, qoʻlga ilinadi — xuddi qarigʻay taxtasidek, derdi. Bu doʻzax boshlanmasdan oldin oʻlgani yaxshi boʻldi, aks holda haqiqatni koʻrardi: har narsani sindirsa boʻlar ekan. Eng qattiq yogʻochni ham. Ostida esa faqat tartibsizlik bor ekan."
+			[br][br]- Starshina Johannes Melius
+		</Entry>
+    <Entry Name="DeathHint_Monster_1">
+			"Dushman doim quloq solib turadi. Hech qachon yugurma — oyogʻing seni sotadi. Mushukdek yur. Ehtiyot boʻlib. Sekin. Qoʻrqib, lekin ovga chiqqandek."
+			[br][br]- Askar Jules Corbin
+		</Entry>
+    <Entry Name="DeathHint_Monster_2">
+			"Har qanday yirtqich tovushga qarab ov qiladi. Oʻldirmoqchi boʻlsang — quloq sol. Tirik qolmoqchi boʻlsang — xudo haqi, indama."
+			[br][br]- Starshina Johannes Melius
+		</Entry>
+    <Entry Name="DeathHint_Monster_3">
+			"Bu yangi fonarlar dahshat shovqin qiladi. Jangda hech nimaga yaramaydi — nemis ularni burab turganimizni bir chaqirimdan eshitadi."
+			[br][br]- Askar Francois Allard
+		</Entry>
+    <Entry Name="DeathHint_Monster_4">
+			"Askarlarning ayrimi xandaqda oʻyin oʻynay boshladi. Tasavvur qilasanmi? Atrofda oʻlim, ular bekinmachoq oʻynashadi. Stol tagiga kirib ketishadi. Karavot ostiga yopishib yotib olishadi."
+			[br][br]- Starshina Johannes Melius
+		</Entry>
+    <Entry Name="DeathHint_Monster_5">
+			"Orqaga chekinishidan oldin unga uch marta oʻq uzdim. U askarlarga nima yedirisharkin oʻzi?"
+			[br][br]- Askar Charles Lavoie
+		</Entry>
+    <Entry Name="DeathHint_Monster_8">
+			"Urush oʻgʻil bolani erkak qiladi deyishadi. Balki toʻgʻridir. Menga esa teskarisi boʻldi. Qorongʻidan va uning ichida yashiringan narsadan hech qachon bunchalik qoʻrqmagandim. Generatorning yorugʻi zulmatni ham, undagi maxluqlarni ham quvib soladi. Koshki uni tuni bilan oʻchirishmasa."
+			[br][br]- Askar Francois Allard
+		</Entry>
+    <Entry Name="DeathHint_Monster_6">
+			"Mulhouse. 1914-yil. Chekinishga sanoqli kun qolgan edi. Atrofim sim va loy. Nemis esa mana shu yerda. Roppa-rosa roʻparamda! Uni chalgʻitadigan bir tovush kerakligini bildim. Eski vino shishasini olib uloqtirdim. Shunday shaqirladiki! Nemis oʻsha tomonga otildi — men uni oldim."
+			[br][br]- Askar Jules Corbin
+		</Entry>
+    <Entry Name="DeathHint_Monster_7">
+			"Har bir dushmanning oʻz belgisi bor deyishadi. Masalan, toplarni ol. Ovozi kuchaysa, bilki, ortidan nemis keladi. Dushmaningni yetarlicha oʻrgansang, u senga kerakli hamma narsani oʻzi aytib beradi."
+			[br][br]- Starshina Johannes Melius
+		</Entry>
+    <Entry Name="DeathHint_Rats_1">
+			"Aqldan ozayapman shekilli, rostdan ham. Kecha snaryadlar shunaqa gumburladiki, oʻzimni bir toʻda kalamushga tikilib turgan holda topdim. Ular yangi murdani kemirishardi. Haydamadim ham. Shunchaki qarab turdim. Oʻylardim... nega yangisini... nega yonidagi kuyganini emas?"
+			[br][br]- Askar Francois Allard
+		</Entry>
+    <Entry Name="DeathHint_Rats_2">
+			"Yangi ermagim: kalamushlarni olov bilan qoʻrqitish. Laurent meni shafqatsiz deydi, lekin oʻzining kulganini koʻrdim."
+			[br][br]- Askar Henri Bruno
+		</Entry>
+    <Entry Name="DeathHint_Rats_3">
+			"Gaz hujumlari. Jinnilik. Uning ichida qolish — doʻzaxda turgandek. Niqob bilan boʻlsa-chi? Niqob bilan bu doʻzaxdan chiqish yoʻlini koʻrasan."
+			[br][br]- Askar Charles Lavoie
+		</Entry>
+    <Entry Name="DeathHint_Rats_4">
+			"Anavi Laurent xuddi kalamushning oʻzi! Ovqatini shunday qoʻriqlaydiki, yeyayotganda tarafiga qarasam ham pichoq sanchaman deydi. Ammo bir pechenyesini olmoqchi boʻlsam, uni chalgʻitish ham oson."
+			[br][br]- Askar Henri Bruno
+		</Entry>
+    <Entry Name="DeathHint_Rats_5">
+			"Buni mashqda aytishmaydi: hech qachon soqol olma. Jang maydonining kalamushlari qonni yaxshi koʻradi. Bir tomchisini ham. Bir joyingni kessang, uygʻonganingda yuzingni kemirib oʻtirishadi."
+			[br][br]- Askar Charles Lavoie
+		</Entry>
+    <Entry Name="DeathHint_Rats_6">
+			"Kemiruvchi hamxonalarimiz aslida unchalik yomon emas. Faqat ovqatiga xalaqit berma va qoning oqmasin. Tegishmaydi."
+			[br][br]- Askar Jules Corbin
+		</Entry>
+    <Entry Name="DeathHint_Traps_1">
+			"Oxirgi hujum: xandaqdan otilib chiqib, 70 metr toʻppa-toʻgʻri pulemyotning ogʻziga. Ammo yetib bordik, xudoga shukur! Keyin nemis xandagiga sakradim — u yer tuzoqqa toʻla ekan. Har qadamda tuzoq! Oyogʻimdan ayrilganim oʻsha yerda."
+			[br][br]- Askar Francois Allard
+		</Entry>
+    <Entry Name="DeathHint_Traps_2">
+			"Frezenberg. May oyi. Doʻzax kunlari. Simga oyogʻim ilinib ketdi, tamom, oʻldim deb oʻyladim. Ammo u shunchaki tovushli tuzoq ekan. Omadim keldi... keyin nemislar yugurib kelishdi..."
+			[br][br]- Askar Henri Bruno
+		</Entry>
+    <Entry Name="DeathHint_Traps_3">
+			"Havaskor askar nemis chizigʻiga yetdim, ichkariga kirdim, hujum tugadi deb oʻylaydi. Yoʻq. Hujum aynan oʻsha yerdan boshlanadi. Tuzoqni zararsizlantiradigan asbob bilan bor. Yaqin jangga tayyor bor. Qonga tayyor bor."
+			[br][br]- Romain Delpy, brigada generali, Uchinchi respublikaning 4-armiyasi
+		</Entry>
+    <Entry Name="DeathHint_Fall_1">
+			Oyogʻingizga qarang!
+		</Entry>
+    <Entry Name="PressToContinue">Oxirgi saqlovni yuklash uchun istalgan tugmani bosing...</Entry>
+  </CATEGORY>
+  <CATEGORY Name="Levels">
+    <Entry Name="arsenal">Qurolxona</Entry>
+    <Entry Name="tunnels">Rim tunnellari</Entry>
+    <Entry Name="maintenance">Taʼmirxona</Entry>
+    <Entry Name="no-mans-land">Egasiz yer</Entry>
+    <Entry Name="officer-hub">Markaziy bunker</Entry>
+    <Entry Name="prison">Qamoqxona</Entry>
+    <Entry Name="range">Otish maydoni</Entry>
+    <Entry Name="soldier-quarters">Askarlar kazarmasi</Entry>
+    <Entry Name="trenches">Xandaqlar</Entry>
+    <Entry Name="castle">Qalʼa</Entry>
+    <Entry Name="arena">Maydon</Entry>
+  </CATEGORY>
+  <CATEGORY Name="BunkerTest">
+    <Entry Name="IntroText">
+			"Bu urushda tirik qolish uchun senga ikki narsa kerak: birinchisi — oddiy koʻnikmalar. Ikkinchisi — kerak boʻlsa hamma narsaga qoʻl uradigan aql.[br][br]Birinchisini men oʻrgataman. Ikkinchisi oʻzingdan."[br][br] - Romain Delpy, brigada generali, Uchinchi respublikaning 4-armiyasi
+		</Entry>
+  </CATEGORY>
+  <CATEGORY Name="GUIText">
+    <Entry Name="IntroMessageText">Endi yolgʻizsiz. Oʻrganing, moslashing, sinab koʻring va tirik qoling.</Entry>
+  </CATEGORY>
+  <CATEGORY Name="LastTimeOn" />
+  <CATEGORY Name="Credits">
+    <Entry Name="AFrictionalGamesProduction">- Frictional Games mahsuloti -</Entry>
+    <Entry Name="AmnesiaRebirth">- Amnesia: Rebirth -</Entry>
+    <Entry Name="FrictionalGamesAre">Frictional Games jamoasi</Entry>
+    <Entry Name="AdditionalArt">Qoʻshimcha tasvirlar</Entry>
+    <Entry Name="Animation">Animatsiya</Entry>
+    <Entry Name="AdditionalAnimation">Qoʻshimcha animatsiya</Entry>
+  </CATEGORY>
+  <CATEGORY Name="CreditsPrompts">
+    <Entry Name="Skip">Oʻtkazib yuborish uchun $Input{Interact} ni bosib turing</Entry>
+  </CATEGORY>
+  <CATEGORY Name="CreditsPromptsGamepad">
+    <Entry Name="Skip">Oʻtkazib yuborish uchun $Input{Interact} ni bosib turing</Entry>
+  </CATEGORY>
